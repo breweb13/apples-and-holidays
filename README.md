@@ -49,7 +49,6 @@ end
 
 * Write a method to collect all Winter supplies from all the winter holidays.
   For example:
-
 ```bash
 winter_supplies(holiday_supplies) #=> ["Lights", "Wreath", etc]
 ```
